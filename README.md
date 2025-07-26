@@ -1,3 +1,4 @@
 # CODING-SAMURAI
-<BR>
 3rd Internship Tasks
+<br>
+Author - Aastha Rahi
